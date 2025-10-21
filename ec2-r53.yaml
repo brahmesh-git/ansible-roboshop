@@ -3,7 +3,7 @@
   connection: local
   vars:
     ami_id: ami-09c813fb71547fc4f
-    sg_id: sg-06f8fa60f2d48194b # replace with your SG ID
+    sg_id: sg-0cd24e11dc9439520 # replace with your SG ID
     zone_id: "Z0989538T2XEPILYNZJC" # replace with your ID
     domain_name: "hellodevops.shop"
     # we can pass instances through command line using -e
